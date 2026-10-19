@@ -69,6 +69,14 @@ Data visualization techniques are used to illustrate changes in key indicators, 
   * The data reveals a significant, steady upward expansion in the employment numbers of workers with **Tertiary Education**, highlighting the increasing integration and demand for higher education graduates in Macao's labor market over the decade.
 
 ---
+## 5. Criteria for Success & Analytical Rigor
 
-## 5. Current Project Status: 
+The project's success is evaluated based on:
+* **Data Quality & Official Integration:** Utilizing official datasets from relevant Macao government departments with appropriate procedures for cleaning, integration, and preparation.
+* **Visual Clarity & Accuracy:** Visualizations clearly communicate trends, patterns, and relationships with appropriate titles, labels, units, and data sources.
+* **Rigorous Interpretation:** The analysis distinguishes between correlation and causation while explicitly acknowledging the limitations of using observational data.
+
+---
+
+## 6. Current Project Status: 
 Ongoing
