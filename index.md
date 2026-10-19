@@ -70,5 +70,5 @@ Data visualization techniques are used to illustrate changes in key indicators, 
 
 ---
 
-## 5. Current project status: 
+## 5. Current Project Status: 
 Ongoing
