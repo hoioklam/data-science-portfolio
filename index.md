@@ -57,7 +57,7 @@ Data visualization techniques are used to illustrate changes in key indicators, 
   * Other sectors like manufacturing, construction, and hospitality show stable or moderately recovering trajectories, reflecting the impact of economic cycles and exogenous disruptions such as the COVID-19 pandemic.
 
 ### Figure 2: Employment by Educational Attainment
-![Employment by Educational Attainment](https://github.com/hoioklam/data-science-project/blob/main/Practice09_pic2.png))
+![Employment by Educational Attainment](https://github.com/hoioklam/data-science-project/blob/main/Practice09_pic2.png)
 
 * **Description & Insights:**
   * This comparative employment chart illustrates shifts in the number of employed persons categorized by educational attainment groups (Junior Secondary, Senior Secondary, Tertiary Education, and Others).
