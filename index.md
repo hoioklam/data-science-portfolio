@@ -53,7 +53,7 @@ Data visualization techniques are used to illustrate changes in key indicators, 
 
 ## Figure 1: Employment Earnings Trend by Industry (2014–2024)
 
-![Employment Earnings Trend](https://raw.githubusercontent.com/hoioklam/data-science-project/main/Practice09_pic1.png)
+<img src="https://raw.githubusercontent.com/hoioklam/data-science-project/main/Practice09_pic1.png" alt="Employment Earnings Trend" width="800">
 
 * **Description & Insights:** 
   * The time-series line chart above tracks median monthly employment earnings (in MOP) across various economic sectors from 2014 to 2024.
@@ -62,7 +62,7 @@ Data visualization techniques are used to illustrate changes in key indicators, 
 
 ## Figure 2: Employment by Educational Attainment
 
-![Employment by Educational Attainment](https://raw.githubusercontent.com/hoioklam/data-science-project/main/Practice09_pic2.png)
+<img src="https://raw.githubusercontent.com/hoioklam/data-science-project/main/Practice09_pic2.png" alt="Employment by Educational Attainment" width="800">
 
 * **Description & Insights:**
   * This comparative employment chart illustrates shifts in the number of employed persons categorized by educational attainment groups (Junior Secondary, Senior Secondary, Tertiary Education, and Others).
