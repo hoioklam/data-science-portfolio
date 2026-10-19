@@ -48,20 +48,26 @@ The workflow is divided into four main tasks implemented using Python in Jupyter
 
 Data visualization techniques are used to illustrate changes in key indicators, such as employment earnings trends across industries, the educational attainment of employed residents, and median monthly employment earnings.
 
-### Figure 1: Employment Earnings Trend by Industry (2014–2024)
-![Employment Earnings Trend](https://github.com/hoioklam/data-science-project/blob/main/Practice09_pic1.png)
+
+
+
+## Figure 1: Employment Earnings Trend by Industry (2014–2024)
+
+![Employment Earnings Trend](https://raw.githubusercontent.com/hoioklam/data-science-project/main/Practice09_pic1.png)
 
 * **Description & Insights:** 
   * The time-series line chart above tracks median monthly employment earnings (in MOP) across various economic sectors from 2014 to 2024.
   * *Public Administration & Social Security* consistently maintains the highest earning level, exceeding MOP 50,000 by 2024.
   * Other sectors like manufacturing, construction, and hospitality show stable or moderately recovering trajectories, reflecting the impact of economic cycles and exogenous disruptions such as the COVID-19 pandemic.
 
-### Figure 2: Employment by Educational Attainment
-![Employment by Educational Attainment](https://github.com/hoioklam/data-science-project/blob/main/Practice09_pic2.png)
+## Figure 2: Employment by Educational Attainment
+
+![Employment by Educational Attainment](https://raw.githubusercontent.com/hoioklam/data-science-project/main/Practice09_pic2.png)
 
 * **Description & Insights:**
   * This comparative employment chart illustrates shifts in the number of employed persons categorized by educational attainment groups (Junior Secondary, Senior Secondary, Tertiary Education, and Others).
   * The data reveals a significant, steady upward expansion in the employment numbers of workers with **Tertiary Education**, highlighting the increasing integration and demand for higher education graduates in Macao's labor market over the decade.
+
 ---
 
 ## 5. Current project status: 
