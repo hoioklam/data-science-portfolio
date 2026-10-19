@@ -78,5 +78,5 @@ The project's success is evaluated based on:
 
 ---
 
-## 6. Current Project Status: 
+## 6. Current Project Status 
 Ongoing
